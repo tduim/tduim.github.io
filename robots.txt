@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tduim.github.io/JtV/sitemap.JtV.gz
