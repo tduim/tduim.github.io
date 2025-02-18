@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tduim.csgad.com/yTn/sitemap.xml.gz
